@@ -14,7 +14,7 @@ Olá! Eu sou Antônio e estudo ADS
 
     Aprender mais sobre disciplinas necessárias pra área de TI com profissionais capacitados
 
-## O que aprendi
+## O que eu aprendi
 
     Aprendi a usar o Github de forma mais profissional top!
 
